@@ -1,0 +1,9 @@
+image: python:3.9
+
+stages:
+  - test
+
+unit_test:
+  stage: test
+  script:
+    - python -m unittest "./project/tests/unit-tests.py"
