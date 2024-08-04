@@ -11,6 +11,10 @@ This is a homework assignment for Quadigi Software Engineer Python (Test Framewo
 
 ```.gitlab-ci.yml``` - Pipeline script to run tests on CI machine
 
+## How to run tests?
+
+```python -m unittest "./project/tests/unit-tests.py"```
+
 ## What could be improved with more time?
 - Code should handle invalid MeasType
 - Unit tests should be expanded to test more edge cases
