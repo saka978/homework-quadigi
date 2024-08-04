@@ -6,7 +6,9 @@ This is a homework assignment for Quadigi Software Engineer Python (Test Framewo
 ## Project structure
 
 ```project/main``` - Contains all files that handle data sampling
+
 ```projects/tests``` - Contains unit tests to verify data sampling logic
+
 ```.gitlab-ci.yml``` - Pipeline script to run tests on CI machine
 
 ## What could be improved with more time?
